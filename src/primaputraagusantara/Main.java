@@ -1,6 +1,5 @@
 package primaputraagusantara;
 
-import java.io.BufferedReader;
 import java.util.Scanner;
 
 public class Main
